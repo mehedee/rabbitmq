@@ -1,0 +1,17 @@
+{
+    "name": "mehedee/rabbitmq",
+    "description": "Simple Approach to Manage Queue and Worker from RabbitMq",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0",
+        "php-amqplib/php-amqplib" : "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehedee Hasan",
+            "email": "mehedee@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
